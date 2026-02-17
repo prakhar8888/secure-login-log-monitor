@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment variables (secrets)
+.env
+
+# Log files
+src/logs/auth.log
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
